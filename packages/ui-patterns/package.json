@@ -34,7 +34,7 @@
     "api-types": "*"
   },
   "peerDependencies": {
-    "next": "*",
+    "next": "^15.5.18",
     "react": "*",
     "react-dom": "*"
   }
